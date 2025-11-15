@@ -1,4 +1,3 @@
-# I-Kadek-Purna
 # Tugas: Aplikasi To-Do List Interaktif
 
 Deskripsi singkat:
